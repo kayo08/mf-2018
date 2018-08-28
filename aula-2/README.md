@@ -1,40 +1,40 @@
--mkdir aula-2
+- mkdir aula-2
 
--cp README.md /home/aluno/Downloads
+- cp README.md /home/aluno/Downloads
 
--less README.md
+- less README.md
 
--vi README.md
+- vi README.md
 
--ls -lt
+- ls -lt
 
--cd ..
+- cd ..
 
--cd /home/user/desktop
+- cd /home/user/desktop
 
--find src -name *.md
+- find src -name *.md
 
--man cd
+- man cd
 
--touch README.md
+- touch README.md
 
--curl http://ifconfig.co/city
+- curl http://ifconfig.co/city
 
--echo $?
+- echo $?
 
--echo "10 / 5" | bc
+- echo "10 / 5" | bc
 
--clear
+- clear
 
--pwd
+- pwd
 
--whoami
+- whoami
 
--export TESTE_MFS=Aula
+- export TESTE_MFS=Aula
 
--tail -f /var/log/system.log
+- tail -f /var/log/system.log
 
--rm README.md
+- rm README.md
 
--rm -fr aula-2
+- rm -fr aula-2
 
