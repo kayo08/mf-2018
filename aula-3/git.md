@@ -1,5 +1,5 @@
 #Lista de atividades já realizadas
-
+------
 * Crido repositório mf-2018.
 * Repositório do grupo criado.
 * Repositório 'aula-02' criado.
