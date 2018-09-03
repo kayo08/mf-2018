@@ -5,4 +5,4 @@
 * Repositório 'aula-02' criado.
 *  20 comandos adicionados no arquivo readme.md.
 * Feito os commits e push no arquivo git.md.
-* Localizado referencias sobre o projeto em grupo.
+* Localizado referências sobre o projeto em grupo.
